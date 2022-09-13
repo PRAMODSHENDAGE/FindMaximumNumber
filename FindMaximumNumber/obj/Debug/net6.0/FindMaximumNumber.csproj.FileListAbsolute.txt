@@ -1,0 +1,15 @@
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.exe
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.deps.json
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.runtimeconfig.json
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.dll
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.pdb
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.csproj.AssemblyReference.cache
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.AssemblyInfoInputs.cache
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.AssemblyInfo.cs
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.csproj.CoreCompileInputs.cache
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.dll
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\refint\FindMaximumNumber.dll
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.pdb
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.genruntimeconfig.cache
+D:\RFP\PP\FindMaximumNumber\FindMaximumNumber\obj\Debug\net6.0\ref\FindMaximumNumber.dll
